@@ -1,5 +1,4 @@
-# yolo-v1-to-yolo-v11-classification
-Yolov1 to Yolov11 classification model architectures
+# Yolo v1 to Yolo v11 model architectures
 
 This repository contains yolo models used for classification purposes only.
 Proposed model architecture is available. Ready to train on any classification datesets.
